@@ -1,0 +1,11 @@
+What happens when you initialize a repo? Why do you need to do it?
+
+Initial tracking structure begins - no commit yet. Files for tracking in commits identified.
+
+Files added to directory before commit are also included in  'git status'
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is location of files after 'git add'. It is a logical separation and designation of files for pending commits. This allows
+modification before commit is complete.
+
