@@ -1,2 +1,13 @@
 When would you want to create a remote repository rather than keeping all your work local?
 There are advantages because then you may distribute your effort.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+MAnual management provide deliberation and view of commits.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+     1: Forking a repository: Make a copy of another repo directly in      G itHub
+     2: Forking is a lot like cloning, but it occurs on GitHub. It makes it easy to suggest changes. Forking is only used within context of GitHub.
+     3: Branches occur on a SINGLE repository.
+     4. When you clone from GitHub to local an association is made with local repo to remote repo.
